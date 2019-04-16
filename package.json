@@ -1,0 +1,9 @@
+{
+  "name": "Google-Places",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "repository": "https://github.com/zachmerel/Google-Places.git",
+  "author": "Zach Merel",
+  "license": "MIT"
+}
